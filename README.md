@@ -9,7 +9,7 @@ not there, so it goes in by hand — four steps, once.
 
 ### Step 1: Download it
 
-<a href="https://github.com/Emreisik46/Fut-Sniper-Chrome-Extension/releases/latest/download/fut-fox.zip">
+<a href="https://github.com/Emreisik46/Fut-Sniper-Chrome-Extension/raw/main/fut-fox.zip">
   <img src="https://img.shields.io/badge/Download-FUT%20Fox-ff7a1a?style=for-the-badge" alt="Download FUT Fox">
 </a>
 
