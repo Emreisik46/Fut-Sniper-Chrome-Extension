@@ -30,11 +30,16 @@ sits**, so deleting or moving it later removes the extension.
 3. Click **Load unpacked**
 4. Pick the extracted folder — the one with `manifest.json` in it
 
-### Step 4: Sign up and go
+### Step 4: Sign in and go
 
-1. Click the fox in Chrome's toolbar and make an account
+Accounts are handed out in Discord — there is no sign-up form. Ask there and
+somebody will set you up; you pick your own name and password.
+
+1. Click the fox in Chrome's toolbar and sign in with that name
 2. Open the [FC Ultimate Team Web App](https://www.ea.com/ea-sports-fc/ultimate-team/web-app/)
 3. **Gallery** and **Sniper** are in the left menu
+
+Nothing shows up in the web app until you are signed in.
 
 ## 🔄 Updating
 
@@ -63,7 +68,8 @@ cheapest at or under your max, then listed at your price or sent to your club.
 |---|---|
 | **Nothing in the menu** | Reload the FUT web app page. The panel is fetched at load. |
 | **Extension vanished** | You moved or deleted the folder. Chrome loads it from where it sits — extract it again. |
-| **Can't sign in** | Message whoever gave you this — they can send you a link to set a new password. |
+| **Can't sign in** | Run `/newpassword` in Discord — it sends you a fresh one. |
+| **No account** | Ask in Discord. There is no sign-up form on this end. |
 | **It won't load at all** | The server may be down. Try again shortly. |
 
 ## ⚠️ Worth knowing
