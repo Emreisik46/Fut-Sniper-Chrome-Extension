@@ -63,7 +63,7 @@ cheapest at or under your max, then listed at your price or sent to your club.
 |---|---|
 | **Nothing in the menu** | Reload the FUT web app page. The panel is fetched at load. |
 | **Extension vanished** | You moved or deleted the folder. Chrome loads it from where it sits — extract it again. |
-| **Can't sign in** | Use **Forgotten your password?** in the popup — a reset link is emailed to you. |
+| **Can't sign in** | Message whoever gave you this — they can send you a link to set a new password. |
 | **It won't load at all** | The server may be down. Try again shortly. |
 
 ## ⚠️ Worth knowing
