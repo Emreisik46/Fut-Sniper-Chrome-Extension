@@ -63,13 +63,11 @@ cheapest at or under your max, then listed at your price or sent to your club.
 |---|---|
 | **Nothing in the menu** | Reload the FUT web app page. The panel is fetched at load. |
 | **Extension vanished** | You moved or deleted the folder. Chrome loads it from where it sits — extract it again. |
-| **Can't sign in** | Check the email and password you signed up with. There is no password reset yet. |
+| **Can't sign in** | Use **Forgotten your password?** in the popup — a reset link is emailed to you. |
 | **It won't load at all** | The server may be down. Try again shortly. |
 
 ## ⚠️ Worth knowing
 
-- **No password reset yet.** Forget yours and that account is gone — you would
-  sign up again with another email.
 - **The server has to be up.** The panel is fetched rather than bundled, which
   is what makes updates automatic; if the server is down, nothing appears.
 - **Automating the web app is against EA's terms.** The Sniper searches and
